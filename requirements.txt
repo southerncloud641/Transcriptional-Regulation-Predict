@@ -1,0 +1,6 @@
+biopython>=1.83
+openai>=1.40
+pdfplumber>=0.11
+PyMuPDF>=1.27
+Flask>=3.0
+requests>=2.31

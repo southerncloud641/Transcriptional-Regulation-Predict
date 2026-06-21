@@ -1,0 +1,28 @@
+transcription_factor,target_gene,regulation_type
+ZBTB10,Sp1,repression
+ZBTB10,Sp3,repression
+ZBTB10,Sp4,repression
+ZBTB10,PKLR,repression
+ZBTB10,ARRDC3,activation
+ZBTB10,HK1,activation
+ZBTB10,gastrin,repression
+AR,ZBTB10,activation
+Sp1,gastrin,activation
+Sp1,VEGF,activation
+Sp1,VEGFR1,activation
+Sp1,survivin,activation
+Sp1,VEGFR2,activation
+Sp1,cyclin D1,activation
+Sp1,c-Met,activation
+Sp3,VEGF,activation
+Sp3,VEGFR1,activation
+Sp3,survivin,activation
+Sp3,VEGFR2,activation
+Sp3,cyclin D1,activation
+Sp3,c-Met,activation
+Sp4,VEGF,activation
+Sp4,VEGFR1,activation
+Sp4,survivin,activation
+Sp4,VEGFR2,activation
+Sp4,cyclin D1,activation
+Sp4,c-Met,activation
